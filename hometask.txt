@@ -1,2 +1,15 @@
-Рисунки в ветке master и в удаленной ветке demo получились одинаковами,
-только в matster в конце есть двк пустые строки, а в demo нет.
+Рисунки в ветке master и в удаленной ветке demo получились одинаковами.
+В удаленном репозитьрии 13 коммитов. Ниже комментарии к ним:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+first_commit
+Merge remote-tracking branch 'remotes/origin/hat'
+Merge branch 'boots_buttons'
+add hometask
+add commits
